@@ -6,4 +6,4 @@ For example this allows you to run your public server similiar to iRacing, where
 
 ### Prerequisites ###
 
-* Requires AutoHotKey to compile.
+* Use AutoHotKey to compile.
