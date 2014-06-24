@@ -15,7 +15,7 @@ For example this allows you to run your public server similiar to iRacing, where
 If you want to run your server on autopilot, make sure to disable session voting.
 Also make sure that the restart time is not too close to the end of a race, as there is always some delay between switching sessions. A safe value should be *15-20min*.
 
-Oh, and of course mention when a race takes places in your server name, like:
+Don't forget to mention when a race takes places in your server name, like:
 *ServerX.com - Race session every full hour*
 
 ### Prerequisites ###
