@@ -1,4 +1,5 @@
 #Persistent
+#SingleInstance off
 menu, tray, NoIcon
 FormatTime,LastDeamonExecTime,,yyyyMMddHHmmss
 RestartCount:=0
@@ -30,7 +31,7 @@ Gui, Add, GroupBox, x12 y69 w380 h80 , Select server (click on the server window
 Gui, Add, DateTime, x22 y29 w100 h20 vStartDate
 Gui, Add, GroupBox, x12 y9 w120 h50 , Start Date
 ; Generated using SmartGUI Creator 4.0
-Gui, Show, x572 y277 h274 w406, rFactor2 Timed Server Control v1.3
+Gui, Show, x572 y277 h274 w406, rFactor2 Timed Server Control v1.31
 
 GuiControl, disable, Stop
 
