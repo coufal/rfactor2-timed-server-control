@@ -20,4 +20,4 @@ Don't forget to mention when a race takes places in your server name, like:
 
 ### Prerequisites ###
 
-* Use AutoHotKey to run.
+* Use AutoHotKey to run the script.
